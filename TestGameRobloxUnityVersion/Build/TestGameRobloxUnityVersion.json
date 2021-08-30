@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roblox Quest",
+"dataUrl": "TestGameRobloxUnityVersion.data.unityweb",
+"asmCodeUrl": "TestGameRobloxUnityVersion.asm.code.unityweb",
+"asmMemoryUrl": "TestGameRobloxUnityVersion.asm.memory.unityweb",
+"asmFrameworkUrl": "TestGameRobloxUnityVersion.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
